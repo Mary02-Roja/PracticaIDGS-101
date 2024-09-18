@@ -1,1 +1,1 @@
-# PracticaIDGS-101
+# PracticasIDGS-101
